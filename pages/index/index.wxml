@@ -1,0 +1,4 @@
+<view class="content">
+ <view class="list" wx:for="{{dataList}}" wx:key="list">
+ {{item}}</view>
+</view>
